@@ -1,6 +1,10 @@
 #include<ioatream>
 using namespace std;
 
+void mergesort() {
+
+}
+
 int main() {
     cout<<"Hello World";
     return 0;
